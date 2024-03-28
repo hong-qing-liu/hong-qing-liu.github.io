@@ -10,10 +10,8 @@ main:
   - title: "Publications"
     url: /publications/
     # url: https://scholar.google.es/citations?user=xxxxxxxx=en
-        
- 
-
-  - title: "Talks"
+      
+  - title: "Research"
      url: /talks/    
 
   - title: "Teaching"
