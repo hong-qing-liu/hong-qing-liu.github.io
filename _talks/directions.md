@@ -2,6 +2,10 @@
 permalink: /talks/directions
 ---
 
+
+# 主要研究方向为语音信号以及人工智能在语音信号处理中的应用。
+
+
 ### 声学回声消除
 - 回声消除(Acoustic echo cancellation, AEC)是利用远端信号作为参考信号，完成近端信号中的回声去除，完成清晰的通话。
   
