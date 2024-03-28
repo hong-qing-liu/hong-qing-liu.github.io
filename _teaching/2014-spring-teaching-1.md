@@ -2,7 +2,7 @@
 title: "本科"
 collection: teaching
 permalink: /teaching/2014-spring-teaching-1
-date: 
+date: 2024-09-01
 ---
 
  
