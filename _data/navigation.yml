@@ -1,11 +1,11 @@
 # main links links
 main:
   - title: "CV"
-    # url: /cv/
-    url: /files/Resume.pdf
+    url: /cv/
+    #url: /files/Resume.pdf
 
-  - title: "Portfolio"
-    url: /portfolio/
+  #- title: "Portfolio"
+  #   url: /portfolio/
   
   - title: "Publications"
     url: /publications/
@@ -14,11 +14,11 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
 
-  # - title: "Talks"
-  #   url: /talks/    
+  - title: "Research"
+     url: /talks/    
 
-  # - title: "Teaching"
-  #   url: /teaching/    
+   - title: "Teaching"
+    url: /teaching/    
     
   # - title: "Guide"
   #   url: /markdown/
