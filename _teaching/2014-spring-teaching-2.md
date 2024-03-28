@@ -5,6 +5,6 @@ permalink: /teaching/2014-spring-teaching-2
 ---
 
  
-## 现代信号处理 (中、英文)
+- 现代信号处理 (中、英文)
  
  
