@@ -18,6 +18,7 @@ author_profile: true
 9. Dong Li, Quanhuan Liang, H.Q.Liu, Qinghua Liu, Haijun Liu, and Guisheng Liao, A Novel Multi-Dimensional Domain Deep Learning Network for SAR Ship Detection, IEEE Trans. Geoscience and Remote Sensing, vol. 60, pp. 1-13, 2022.
 10. H.Q.Liu, W. Zhu, Y. Zhou, L. Shi, L. Gan, Nonintrusive wind blade fault detection using deep learning approach by exploring acoustic information, The Journal of the Acoustical Society of America, 153(1):538-547, Jan. 2023.
 11. Y.Liu, B. Jiang, H.Q.Liu, Y. Zhao, F. Xiong, and Y. Zhou, A Novel Earprint: Stimulus-Frequency Otoacoustic Emission for Biometric Recognition, IEEE Transactions on Information Forensics & Security, vol. 18, pp. 5484-5494, 2023.
+    
 ### 会议
 1. Z. Luo and H.Q.Liu, Robust Hybrid Transceiver Designs for Millimeter Wave AF Cooperative Systems, VTC-fall, Honolulu, USA, Sept. 2019.
 2. X. Zhang, H.Q.Liu, Z. Luo and Y. Zhou, Joint Image Deblur and Poisson Denoising based on Adaptive Dictionary Learning, IEEE International Workshop on Signal Processing Systems (SiPS), Nanjing, China, Oct. 2019.
