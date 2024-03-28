@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Hongqing Liu"
-  avatar           : "Profile_pic2.png"
-  bio              : "Multi-Modal Learning \n under Prof. Marcus Rohrbach"
+  avatar           : "hongqing.png"
+  bio              : "音频信号处理"
   location         : "Chongqing, China"
-  employer         : "Chongqing University of Posts and Telecommunications"
+  employer         : "重庆邮电大学"
   pubmed           : 
   googlescholar    : 
   email            : "hongqingliu@cqupt.edu.cn"
