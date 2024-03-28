@@ -2,6 +2,7 @@
 title: "本科"
 collection: teaching
 permalink: /teaching/2014-spring-teaching-1
+venue: "重庆邮电大学"
 date: 2024-09-01
 ---
 
