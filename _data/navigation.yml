@@ -11,14 +11,16 @@ main:
     url: /publications/
     # url: https://scholar.google.es/citations?user=xxxxxxxx=en
         
-  # - title: "Blog Posts"
-  #   url: /year-archive/
+ 
 
   - title: "Research"
      url: /talks/    
 
-   - title: "Teaching"
+  - title: "Teaching"
     url: /teaching/    
-    
+  
+  - title: "Posts"
+    url: /year-archive/
+  
   # - title: "Guide"
   #   url: /markdown/
