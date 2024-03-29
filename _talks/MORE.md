@@ -11,7 +11,12 @@ permalink: /talks/MORE
 ### 声学回声消除
 - 回声消除(Acoustic echo cancellation, AEC)是利用远端信号作为参考信号，完成近端信号中的回声去除，完成清晰的通话。
  <img src="/images/aec.jpg" alt="image" width="300" height="auto">
-
+​<audio id="audio" controls="" preload="none">
+      <source id="wav" src="/files/neaecmic">
+</audio>
+​<audio id="audio" controls="" preload="none">
+      <source id="wav" src="/files/neaecout">
+</audio>
  
 ### 语音增强  
 - 语音增强(Speech enhancement)是去除语音中的噪声，完成语音质量的提升。
