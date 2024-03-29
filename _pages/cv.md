@@ -17,5 +17,7 @@ redirect_from:
 - 教授 (2013.05 - ), 通信与信息工程学院，重庆邮电大学
 - 研究员 (Oct. 2009 - Jan. 2013), Acoustic Research Laboratory, Tropical Marine Science Institute, 新加坡国立大学, 新加坡 
 
-<embed src="../files/resume.pdf" type="application/pdf" frameBorder="0" scrolling="auto" height="100%"
-  width="100%"></embed>
+## 
+<embed src="../files/resume.pdf" type="application/pdf" frameBorder="0" scrolling="auto" height="100%" width="100%"> 
+
+<iframe width="100%" height="800" src="../files/resume.pdf">
