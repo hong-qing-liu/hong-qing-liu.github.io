@@ -9,9 +9,7 @@ permalink: /talks/MORE
 
 
 ### 声学回声消除
-- 回声消除(Acoustic echo cancellation, AEC)是利用远端信号作为参考信号，完成近端信号中的回声去除，完成清晰的通话。
- <img src="/images/aec.jpg" alt="image" width="300" height="auto">
-
+- 回声消除(Acoustic echo cancellation, AEC)是利用远端信号作为参考信号，完成近端信号中的回声去除，完成清晰的通话。(/images/sec.png){: .align-right width="300px"}
 #### AEC之前
 ​<audio id="audio" controls="" preload="none">
       <source id="wav" src="/files/neaecmic">
