@@ -11,15 +11,15 @@ permalink: /talks/AEC
 
 
 ####  全神经网络方案
-- 利用时频域信息，设计了一个实时的全网络模型完成回声消除和噪声抑制，区别于常用的先传统方法和后滤波方案。
+-- 利用时频域信息，设计了一个实时的全网络模型完成回声消除和噪声抑制，区别于常用的先传统方法和后滤波方案。
   
-- AEC之前
+-- AEC之前
 ![AEC before](/images/neaecmic.JPG){: .align-center width="300px"}
 ​<audio id="audio" controls="" preload="none">
       <source id="wav" src="../files/neaecmic.wav">
  
 
-- AEC之后
+-- AEC之后
 ![AEC before](/images/neaecout.JPG){: .align-center width="300px"}
 ​<audio id="audio" controls="" preload="none">
       <source id="wav" src="../files/neaecout.wav">
