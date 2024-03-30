@@ -5,7 +5,7 @@ type: "Talk"
 permalink: /talks/SED
 ---
 
-##  声学回声消除 
+##  声音事件检测
 - <font size=3> 声事件检测(Acoustic(sound) event detection, A(S)ED)是对声音中所包含的声音种类进行判别。</font>  
 
 
