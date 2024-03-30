@@ -15,13 +15,17 @@ permalink: /talks/AEC
   
 -- <font size=3> AEC之前</font>  
 ![AEC before](/images/neaecmic.JPG){: .align-center width="300px"}
+<center>
 ​<audio id="audio" controls="" preload="none">
       <source id="wav" src="../files/neaecmic.wav">
+</center>
  
 
 -- <font size=3> AEC之后</font>  
 ![AEC before](/images/neaecout.JPG){: .align-center width="300px"}
+<center>
 ​<audio id="audio" controls="" preload="none">
       <source id="wav" src="../files/neaecout.wav">
+</center>
  
 
