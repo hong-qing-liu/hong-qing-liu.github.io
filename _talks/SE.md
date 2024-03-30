@@ -44,13 +44,13 @@ permalink: /talks/SE
 
 -- <font size=3> 将低采样率的语音转变成高采样率的语音，提升听感。</font>  
 
--- <font size=3> 啸叫抑制之前</font>  
+-- <font size=3> 超分辨之前</font>  
 ![super before](/images/superbefore.jpg){: .align-center width="300px"}
 ​<audio id="audio" controls="" preload="none">
       <source id="wav" src="../files/superbefore.wav">{: .align-center}
  
 
--- <font size=3> 啸叫抑制之后</font>  
+-- <font size=3> 超分辨之后</font>  
 ![super after](/images/superafter.jpg){: .align-center width="300px"}
 ​<audio id="audio" controls="" preload="none">
       <source id="wav" src="../files/superafter.wav">{: .align-center}
