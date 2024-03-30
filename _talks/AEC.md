@@ -19,7 +19,6 @@ permalink: /talks/AEC
 ​<audio id="audio" controls="" preload="none">
       <source id="wav" src="../files/neaecmic.wav">
 </center>
- 
 
 -- <font size=3> AEC之后</font>  
 ![AEC before](/images/neaecout.JPG){: .align-center width="300px"}
