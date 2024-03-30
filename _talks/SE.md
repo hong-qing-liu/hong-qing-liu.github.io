@@ -14,13 +14,13 @@ permalink: /talks/SE
 -- <font size=3> 基于大数据和智能的方案，可以有效的去除非平稳噪声，达到相对于传统算法更优良的效果。 模型小，有利于实时实现。</font>  
   
 -- <font size=3> 去噪之前</font>  
-![SE before](/images/nesebefore.png){: .align-center width="300px"}
+![SE before](/images/nesebefore.png){: .align-center width="700px"}
 ​<audio id="audio" controls="" preload="none">
       <source id="wav" src="../files/nesebefore.wav">{: .align-center}
  
 
 -- <font size=3> 去噪之后</font>  
-![SE after](/images/neseafter.png){: .align-center width="300px"}
+![SE after](/images/neseafter.png){: .align-center width="700px"}
 ​<audio id="audio" controls="" preload="none">
       <source id="wav" src="../files/neseafter.wav">{: .align-center}
 
@@ -29,13 +29,13 @@ permalink: /talks/SE
 -- <font size=3> 在扩声场景下，由于扬声器播发出的声音又被麦克风采集到，如此反复形成一个闭合回路，从而刺耳的啸叫声。这种情况不仅容易损坏设备，也同时影响听觉。</font>  
 
 -- <font size=3> 啸叫抑制之前</font>  
-![Howling before](/images/howlbefore.JPG){: .align-center width="300px"}
+![Howling before](/images/howlbefore.JPG){: .align-center width="700px"}
 ​<audio id="audio" controls="" preload="none">
       <source id="wav" src="../files/howl-noisy.wav">{: .align-center}
  
 
 -- <font size=3> 啸叫抑制之后</font>  
-![Howling after](/images/howlafter.JPG){: .align-center width="300px"}
+![Howling after](/images/howlafter.JPG){: .align-center width="700px"}
 ​<audio id="audio" controls="" preload="none">
       <source id="wav" src="../files/howl-enhance.wav">{: .align-center}
 
@@ -45,12 +45,12 @@ permalink: /talks/SE
 -- <font size=3> 将低采样率的语音转变成高采样率的语音，提升听感。</font>  
 
 -- <font size=3> 超分辨之前</font>  
-![super before](/images/superbefore.jpg){: .align-center width="300px"}
+![super before](/images/superbefore.jpg){: .align-center width="700px"}
 ​<audio id="audio" controls="" preload="none">
       <source id="wav" src="../files/superbefore.wav">{: .align-center}
  
 
 -- <font size=3> 超分辨之后</font>  
-![super after](/images/superafter.jpg){: .align-center width="300px"}
+![super after](/images/superafter.jpg){: .align-center width="700px"}
 ​<audio id="audio" controls="" preload="none">
       <source id="wav" src="../files/superafter.wav">{: .align-center}
