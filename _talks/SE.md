@@ -14,13 +14,13 @@ permalink: /talks/SE
 -- <font size=3> 基于大数据和智能的方案，可以有效的去除非平稳噪声，达到相对于传统算法更优良的效果。 模型小，有利于实时实现。</font>  
   
 -- <font size=3> 去噪之前</font>  
-![SE before](/images/nesebefore.JPG){: .align-center width="700px"}
+![SE before](/images/nesebefore.png){: .align-center width="700px"}
 ​<audio id="audio" controls="" preload="none">
       <source id="wav" src="../files/nesebefore.wav">{: .align-center}
  
 
 -- <font size=3> 去噪之后</font>  
-![SE after](/images/neseafter.JPG){: .align-center width="700px"}
+![SE after](/images/neseafter.png){: .align-center width="700px"}
 ​<audio id="audio" controls="" preload="none">
       <source id="wav" src="../files/neseafter.wav">{: .align-center}
 
@@ -29,13 +29,13 @@ permalink: /talks/SE
 -- <font size=3> 在扩声场景下，由于扬声器播发出的声音又被麦克风采集到，如此反复形成一个闭合回路，从而刺耳的啸叫声。这种情况不仅容易损坏设备，也同时影响听觉。</font>  
 
 -- <font size=3> 啸叫抑制之前</font>  
-![Howling before](/images/howlbefore.png){: .align-center width="700px"}
+![Howling before](/images/howlbefore.JPG){: .align-center width="700px"}
 ​<audio id="audio" controls="" preload="none">
       <source id="wav" src="../files/howl-noisy.wav">{: .align-center}
  
 
 -- <font size=3> 啸叫抑制之后</font>  
-![Howling after](/images/howlafter.png){: .align-center width="700px"}
+![Howling after](/images/howlafter.JPG){: .align-center width="700px"}
 ​<audio id="audio" controls="" preload="none">
       <source id="wav" src="../files/howl-enhance.wav">{: .align-center}
 
