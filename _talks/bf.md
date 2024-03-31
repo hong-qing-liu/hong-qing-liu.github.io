@@ -15,13 +15,13 @@ permalink: /talks/bf
   
  
 - 波束形成之前
-![AEC before](/images/bfbefore.png){: .align-right height="100px" width="50px"}
+![AEC before](/images/bfbefore.png){: .align-right  width="700px"}
 ​<audio id="audio" controls="" preload="none">
-      <source id="wav" src="../files/nbfbefore.wav">
+      <source id="wav" src="../files/bfbefore.wav">
 </audio>
 
 - 波束形成之后
-![AEC before](/images/bfafter.png){: .align-right height="100px" width="50px"}
+![AEC before](/images/bfafter.png){: .align-right  width="700px"}
 ​<audio id="audio" controls="" preload="none">
       <source id="wav" src="../files/bfafter.wav">
 </audio>
