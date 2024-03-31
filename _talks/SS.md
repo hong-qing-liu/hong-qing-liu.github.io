@@ -15,13 +15,13 @@ permalink: /talks/SS
   
  
 - 分离之前
-![AEC before](/images/nessbefore.png){: .align-right height="100px" width="50px"}
+![AEC before](/images/nessbefore.png){: .align-right  width="700px"}
 ​<audio id="audio" controls="" preload="none">
-      <source id="wav" src="../files/nessbefore.wav">
-</audio>
+      <source id="wav" src="../files/nessbefore.wav">{: .align-center}
+
 
 - 分离之后
-![AEC before](/images/nessafter.png){: .align-right height="100px" width="50px"}
+![AEC before](/images/nessafter.png){: .align-right width="700px"}
 ​<audio id="audio" controls="" preload="none">
-      <source id="wav" src="../files/nessafter.wav">
-</audio>
+      <source id="wav" src="../files/nessafter.wav">{: .align-center}
+
