@@ -6,5 +6,5 @@ permalink: /talks/ASR
 ---
 
 ## 语音识别
-- <font size=3> 利用tansformer结构的encoder-decoder方案，可以实现轻松的转录。</font>  
+- <font size=3> 利用transformer结构的encoder-decoder方案，可以实现轻松的转录。</font>  
 
