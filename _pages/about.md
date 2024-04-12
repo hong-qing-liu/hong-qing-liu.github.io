@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-![Illustration of combining vision and language modalities](/images/front.png){: .align-right width="300px"}
+![Illustration of combining vision and language modalities](/images/peronal.jpg){: .align-right width="300px"}
  
 # 个人简介
 
