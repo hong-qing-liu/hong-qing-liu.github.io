@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 ## 教育背景
+![Illustration of combining vision and language modalities](/images/educations.png){: .align-right width="400px"}
 - 博士，香港城市大学，电子工程系							       		
 - 硕士，西安电子科技大学，电子工程系			        		
 - 学士，西安电子科技大学，电子工程系
