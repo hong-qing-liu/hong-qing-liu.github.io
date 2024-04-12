@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-![Illustration of combining vision and language modalities](/images/personal.jpg){: .align-right width="300px" height="250px"}
+![Illustration of combining vision and language modalities](/images/personal.jpg){: .align-right width="300px" height="180px"}
  
 # 个人简介
 
