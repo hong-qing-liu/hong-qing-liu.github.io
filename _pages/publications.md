@@ -42,7 +42,9 @@ author_profile: true
 3. National Bronze Medal, "Timbre" - 一款基于计算机听觉技术的智能安全监测机器人, The 7th China College Students 'Internet Plus' Innovation and Entrepreneurship Competition, 2021.
 4. National Silver Medal, Windblade listener - an intelligent approach for wind turbine blade monitoring using sound, The 7th China College Students 'Internet Plus' Innovation and Entrepreneurship Competition, 2021.
 5. L3DAS22: Machine Learning for 3D Audio Signal Processing - 3D Sound Event Localization and Detection, Second place, ICASSP, Singapore, 2022.
-6. Robust Anomaly Sound Detection Framework for Machine Condition Monitoring, DCASE Task 2, First place, 2022.
+6. Robust Anomaly Sound Detection Framework for Machine Condition Monitoring, DCASE (声事件检测全球比赛) Task 2, 全球第一名, 2022.
 7. 踏“铁”寻声--高铁底盘稳定速检供应商，第八届中国国际互联网+大学生创新创业大赛，重庆市金奖，2022.
 8. 第八届中国国际互联网+大学生创新创业大赛，优秀创新创业导师，重庆市教育委员会，2022.
+9. Attention mechanism network and data augmentation for sound event localization and detection, DCASE Task 3.A, 全球第二名, 2023.
+10. 第三届成渝地区双城经济圈留学生创新创业大赛， 优秀指导教师，重庆市教育委员会，四川省教育厅， 2023.
 
