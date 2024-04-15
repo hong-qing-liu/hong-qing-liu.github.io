@@ -37,4 +37,5 @@
 6. Robust Anomaly Sound Detection Framework for Machine Condition Monitoring, DCASE Task 2, First place, 2022.
 7. 踏“铁”寻声--高铁底盘稳定速检供应商，第八届中国国际互联网+大学生创新创业大赛，重庆市金奖，2022.
 8. 第八届中国国际互联网+大学生创新创业大赛，优秀创新创业导师，重庆市教育委员会，2022.
+9. 第三届成渝地区双城经济圈留学生创新创业大赛， 优秀指导教师，重庆市教育委员会，四川省教育厅， 2023.
 
