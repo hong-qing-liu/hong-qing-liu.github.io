@@ -10,7 +10,7 @@ permalink: /talks/WFS
 -- <font size=3> 通过最大化明区和暗区的声场对比度，实现了明区的声场能量的最大化和暗区能力声场的最小化的目标。</font>  
   
 -- <font size=3> 声场控制之后</font>  
-![AEC before](/images/ac.png){: .align-center width="700px"}
+![AEC before](/images/ac.jpg){: .align-center width="700px"}
 
 
 
