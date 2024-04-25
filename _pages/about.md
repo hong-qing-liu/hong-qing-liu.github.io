@@ -27,7 +27,14 @@ redirect_from:
 - 数字信号处理(英文，本科生)
 - 现代信号处理技术(中，英文，研究生)
 
+# 博士生招生说明
+- 具有电子工程或计算机专业的硕士学位
+- 具有音频信号处理背景优先
+- 发表领域高水平论文优先
 
+
+
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5q6pdugnbk2&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
 
 
 
