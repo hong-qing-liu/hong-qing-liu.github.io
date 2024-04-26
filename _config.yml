@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Hongqing's Homepage"
 title_separator          : "-"
-name                     : &name "刘宏清"
+name                     : &name "刘宏清(Hongqing Liu)"
 description              : &description "personal description"
 url                      : https://hong-qing-liu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
