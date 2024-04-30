@@ -8,16 +8,18 @@ author_profile: true
 ## 代表性论文
 ### 期刊
 1. T.-C. Lin, L. Hou, H.Q.Liu, Y. Li, and Trieu-Kien Truong, $${\color{blue} Reconstruction of single image from multiple blurry measured images}$$, IEEE Trans. Image Processing, vol. 27, iss. 6, pp. 2762-2776, Jun. 2018.
+   
 2. H.Q.Liu, D. Li, Y. Zhou, and Trieu-Kien Truong, Simultaneous Radio Frequency and Wideband Interference Suppression in SAR Signals via Sparsity Exploitation in Time-Frequency Domain, IEEE Trans. Geoscience and Remote Sensing, vol. 56, iss. 10, pp. 5780-5793, Oct. 2018.
+   
 3. H.Q.Liu, C. Huang, L. Gan, Y. Zhou, and Trieu-Kien Truong, Clutter reduction and target tracking in through-the-wall radar, IEEE Trans. Geoscience and Remote Sensing, vol. 58, iss. 1, pp. 486-499, Jan. 2020.
-4. Z. Luo, L. Zhao, H.Q.Liu, Y .Li, Robust Hybrid Beamforming in Millimeter Wave Systems With Closed-form Least-square Solutions, IEEE Wireless Communications Letters, vol. 10, iss. 1, pp. 156-160, Jan. 2021.
-5. Y. Gong, L. Gan, H.Q.Liu, Multi-Channel Modulo Samplers Constructed from Gaussian Integers, IEEE Signal Processing Letters, vol. 28, pp. 1828-1832, 2021.
-6. S. Liu, J. Cao, H.Q.Liu, and K. Zhang, MRI reconstruction based on Bayesian piecewise sparsity constraint and adaptive 3D transform, Knowledge-Based Systems, vol. 232, Nov. 2021.
-7. J. Cao, S. Liu, H.Q.Liu, and K. Zhang, MRI reconstruction based on Bayesian group sparse representation, Signal Processing, vol. 187, Oct. 2021.
-8. Z. Yang, D. Li, H.Q.Liu, G. Liao, An Efficient ISAR Imaging Approach for Highly Maneuvering Targets Based on Subarray Averaging and Image Entropy, IEEE Trans. Geoscience and Remote Sensing, vol 60, 2021.
-9. Dong Li, Quanhuan Liang, H.Q.Liu, Qinghua Liu, Haijun Liu, and Guisheng Liao, A Novel Multi-Dimensional Domain Deep Learning Network for SAR Ship Detection, IEEE Trans. Geoscience and Remote Sensing, vol. 60, pp. 1-13, 2022.
-10. H.Q.Liu, W. Zhu, Y. Zhou, L. Shi, L. Gan, Nonintrusive wind blade fault detection using deep learning approach by exploring acoustic information, The Journal of the Acoustical Society of America, 153(1):538-547, Jan. 2023.
-11. Y.Liu, B. Jiang, H.Q.Liu, Y. Zhao, F. Xiong, and Y. Zhou, A Novel Earprint: Stimulus-Frequency Otoacoustic Emission for Biometric Recognition, IEEE Transactions on Information Forensics & Security, vol. 18, pp. 5484-5494, 2023.
+6. Z. Luo, L. Zhao, H.Q.Liu, Y .Li, Robust Hybrid Beamforming in Millimeter Wave Systems With Closed-form Least-square Solutions, IEEE Wireless Communications Letters, vol. 10, iss. 1, pp. 156-160, Jan. 2021.
+7. Y. Gong, L. Gan, H.Q.Liu, Multi-Channel Modulo Samplers Constructed from Gaussian Integers, IEEE Signal Processing Letters, vol. 28, pp. 1828-1832, 2021.
+8. S. Liu, J. Cao, H.Q.Liu, and K. Zhang, MRI reconstruction based on Bayesian piecewise sparsity constraint and adaptive 3D transform, Knowledge-Based Systems, vol. 232, Nov. 2021.
+9. J. Cao, S. Liu, H.Q.Liu, and K. Zhang, MRI reconstruction based on Bayesian group sparse representation, Signal Processing, vol. 187, Oct. 2021.
+10. Z. Yang, D. Li, H.Q.Liu, G. Liao, An Efficient ISAR Imaging Approach for Highly Maneuvering Targets Based on Subarray Averaging and Image Entropy, IEEE Trans. Geoscience and Remote Sensing, vol 60, 2021.
+11. Dong Li, Quanhuan Liang, H.Q.Liu, Qinghua Liu, Haijun Liu, and Guisheng Liao, A Novel Multi-Dimensional Domain Deep Learning Network for SAR Ship Detection, IEEE Trans. Geoscience and Remote Sensing, vol. 60, pp. 1-13, 2022.
+12. H.Q.Liu, W. Zhu, Y. Zhou, L. Shi, L. Gan, Nonintrusive wind blade fault detection using deep learning approach by exploring acoustic information, The Journal of the Acoustical Society of America, 153(1):538-547, Jan. 2023.
+13. Y.Liu, B. Jiang, H.Q.Liu, Y. Zhao, F. Xiong, and Y. Zhou, A Novel Earprint: Stimulus-Frequency Otoacoustic Emission for Biometric Recognition, IEEE Transactions on Information Forensics & Security, vol. 18, pp. 5484-5494, 2023.
     
 ### 会议
 1. Z. Luo and H.Q.Liu, Robust Hybrid Transceiver Designs for Millimeter Wave AF Cooperative Systems, VTC-fall, Honolulu, USA, Sept. 2019.
