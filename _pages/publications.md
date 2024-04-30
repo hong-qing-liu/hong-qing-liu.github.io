@@ -7,7 +7,7 @@ author_profile: true
 
 ## 代表性论文
 ### 期刊
-1. T.-C. Lin, L. Hou, H.Q.Liu, Y. Li, and Trieu-Kien Truong, Reconstruction of single image from multiple blurry measured images, IEEE Trans. Image Processing, vol. 27, iss. 6, pp. 2762-2776, Jun. 2018.
+1. T.-C. Lin, L. Hou, H.Q.Liu, Y. Li, and Trieu-Kien Truong, $${\color{blue} Reconstruction of single image from multiple blurry measured images}$$, IEEE Trans. Image Processing, vol. 27, iss. 6, pp. 2762-2776, Jun. 2018.
 2. H.Q.Liu, D. Li, Y. Zhou, and Trieu-Kien Truong, Simultaneous Radio Frequency and Wideband Interference Suppression in SAR Signals via Sparsity Exploitation in Time-Frequency Domain, IEEE Trans. Geoscience and Remote Sensing, vol. 56, iss. 10, pp. 5780-5793, Oct. 2018.
 3. H.Q.Liu, C. Huang, L. Gan, Y. Zhou, and Trieu-Kien Truong, Clutter reduction and target tracking in through-the-wall radar, IEEE Trans. Geoscience and Remote Sensing, vol. 58, iss. 1, pp. 486-499, Jan. 2020.
 4. Z. Luo, L. Zhao, H.Q.Liu, Y .Li, Robust Hybrid Beamforming in Millimeter Wave Systems With Closed-form Least-square Solutions, IEEE Wireless Communications Letters, vol. 10, iss. 1, pp. 156-160, Jan. 2021.
