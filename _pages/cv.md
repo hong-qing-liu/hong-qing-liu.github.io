@@ -17,7 +17,23 @@ redirect_from:
 - 教授 (2013.05 - ), 通信与信息工程学院，重庆邮电大学
 - 研究员 (Oct. 2009 - Jan. 2013), Acoustic Research Laboratory, Tropical Marine Science Institute, 新加坡国立大学, 新加坡
 
-<embed src="../files/resume.pdf" type="application/pdf" frameBorder="0" scrolling="auto" height="100%"
-  width="100%"></embed>
+
+
+<button onclick="togglePDF()">Toggle PDF Display</button>
+
+ <div id="pdfContainer" style="display:none; height:500px;">
+    <embed src="../files/resume.pdf" type="application/pdf" frameborder="0" scrolling="auto" height="100%" width="100%"></embed>
+</div>
+
+<script>
+function togglePDF() {
+    var container = document.getElementById('pdfContainer');
+    if (container.style.display === "none") {
+        container.style.display = "block";  // 显示PDF
+    } else {
+        container.style.display = "none";  // 隐藏PDF
+    }
+}
+</script>
 
 
