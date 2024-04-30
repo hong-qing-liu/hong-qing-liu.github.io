@@ -17,8 +17,8 @@ redirect_from:
 - 教授 (2013.05 - ), 通信与信息工程学院，重庆邮电大学
 - 研究员 (Oct. 2009 - Jan. 2013), Acoustic Research Laboratory, Tropical Marine Science Institute, 新加坡国立大学, 新加坡
 
-
-[View CV](../files/resume.pdf)
+## 个人简历
+- 英文：[View CV](../files/resume.pdf)
 
 
 
