@@ -5,7 +5,7 @@ type: "Talk"
 permalink: /talks/SS
 ---
 
-##  声源分离
+##  声源分离 (Source separation)
 - <font size=3> 信源分离(Source separation, SS)是鸡尾酒会的代名词，是指从多个说话人混合的信号中提取每个说话人。</font>  
 
 
