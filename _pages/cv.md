@@ -19,6 +19,7 @@ redirect_from:
 
 ## 个人简历
 - 英文：[View CV](../files/resume.pdf)
+- 中文：[View CV](../files/resumech.pdf)
 
 
 
