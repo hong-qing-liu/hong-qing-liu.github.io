@@ -1,11 +1,11 @@
 ---
-title: "波束形成-BF"
+title: "波束形成"
 collection: talks
 type: "Talk"
 permalink: /talks/bf
 ---
 
-##  波束形成
+##  波束形成 (Beamforming)
 - <font size=3> 波束形成(Beamforming, BF)是只利用麦克风阵列，完成指向性操作，主瓣内的信号可以无损的通过，旁瓣的信号可以得到有效的抑制。</font>  
 
 
