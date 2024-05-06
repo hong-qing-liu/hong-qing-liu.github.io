@@ -7,27 +7,27 @@ author_profile: true
 
 ## 代表性论文
 ### 期刊
-1. T.-C. Lin, L. Hou, <strong>H. Q. Liu</strong>, Y. Li, and Trieu-Kien Truong, <span style="color: blue;">Reconstruction of single image from multiple blurry measured images</span>, IEEE Trans. Image Processing, vol. 27, iss. 6, pp. 2762-2776, Jun. 2018.
+- T.-C. Lin, L. Hou, <strong>H. Q. Liu</strong>, Y. Li, and Trieu-Kien Truong, <span style="color: blue;">Reconstruction of single image from multiple blurry measured images</span>, IEEE Trans. Image Processing, vol. 27, iss. 6, pp. 2762-2776, Jun. 2018.
    
-2. <strong>H. Q. Liu</strong>, D. Li, Y. Zhou, and Trieu-Kien Truong, <span style="color: blue;">Simultaneous Radio Frequency and Wideband Interference Suppression in SAR Signals via Sparsity Exploitation in Time-Frequency Domain</span>, IEEE Trans. Geoscience and Remote Sensing, vol. 56, iss. 10, pp. 5780-5793, Oct. 2018.
+- <strong>H. Q. Liu</strong>, D. Li, Y. Zhou, and Trieu-Kien Truong, <span style="color: blue;">Simultaneous Radio Frequency and Wideband Interference Suppression in SAR Signals via Sparsity Exploitation in Time-Frequency Domain</span>, IEEE Trans. Geoscience and Remote Sensing, vol. 56, iss. 10, pp. 5780-5793, Oct. 2018.
    
-3. <strong>H. Q. Liu</strong>, C. Huang, L. Gan, Y. Zhou, and Trieu-Kien Truong, <span style="color: blue;">Clutter reduction and target tracking in through-the-wall radar</span>, IEEE Trans. Geoscience and Remote Sensing, vol. 58, iss. 1, pp. 486-499, Jan. 2020.
+- <strong>H. Q. Liu</strong>, C. Huang, L. Gan, Y. Zhou, and Trieu-Kien Truong, <span style="color: blue;">Clutter reduction and target tracking in through-the-wall radar</span>, IEEE Trans. Geoscience and Remote Sensing, vol. 58, iss. 1, pp. 486-499, Jan. 2020.
 
-4. Z. Luo, L. Zhao, <strong>H. Q. Liu</strong>, Y .Li, <span style="color: blue;">Robust Hybrid Beamforming in Millimeter Wave Systems With Closed-form Least-square Solutions</span>, IEEE Wireless Communications Letters, vol. 10, iss. 1, pp. 156-160, Jan. 2021.
+- Z. Luo, L. Zhao, <strong>H. Q. Liu</strong>, Y .Li, <span style="color: blue;">Robust Hybrid Beamforming in Millimeter Wave Systems With Closed-form Least-square Solutions</span>, IEEE Wireless Communications Letters, vol. 10, iss. 1, pp. 156-160, Jan. 2021.
 
-5. Y. Gong, L. Gan, <strong>H. Q. Liu</strong>, <span style="color: blue;">Multi-Channel Modulo Samplers Constructed from Gaussian Integers</span>, IEEE Signal Processing Letters, vol. 28, pp. 1828-1832, 2021.
+- Y. Gong, L. Gan, <strong>H. Q. Liu</strong>, <span style="color: blue;">Multi-Channel Modulo Samplers Constructed from Gaussian Integers</span>, IEEE Signal Processing Letters, vol. 28, pp. 1828-1832, 2021.
 
-6. S. Liu, J. Cao, <strong>H. Q. Liu</strong>, and K. Zhang, <span style="color: blue;">MRI reconstruction based on Bayesian piecewise sparsity constraint and adaptive 3D transform</span>, Knowledge-Based Systems, vol. 232, Nov. 2021.
+- S. Liu, J. Cao, <strong>H. Q. Liu</strong>, and K. Zhang, <span style="color: blue;">MRI reconstruction based on Bayesian piecewise sparsity constraint and adaptive 3D transform</span>, Knowledge-Based Systems, vol. 232, Nov. 2021.
 
-7. J. Cao, S. Liu, <strong>H. Q. Liu</strong>, and K. Zhang, <span style="color: blue;">MRI reconstruction based on Bayesian group sparse representation</span>, Signal Processing, vol. 187, Oct. 2021.
+- J. Cao, S. Liu, <strong>H. Q. Liu</strong>, and K. Zhang, <span style="color: blue;">MRI reconstruction based on Bayesian group sparse representation</span>, Signal Processing, vol. 187, Oct. 2021.
 
-8. Z. Yang, D. Li, <strong>H. Q. Liu</strong>, G. Liao, <span style="color: blue;">An Efficient ISAR Imaging Approach for Highly Maneuvering Targets Based on Subarray Averaging and Image Entropy</span>, IEEE Trans. Geoscience and Remote Sensing, vol 60, 2021.
+- Z. Yang, D. Li, <strong>H. Q. Liu</strong>, G. Liao, <span style="color: blue;">An Efficient ISAR Imaging Approach for Highly Maneuvering Targets Based on Subarray Averaging and Image Entropy</span>, IEEE Trans. Geoscience and Remote Sensing, vol 60, 2021.
 
-9. D. Li, Q. Liang, <strong>H. Q. Liu</strong>, Q. Liu, H. Liu, and G. Liao, <span style="color: blue;">A Novel Multi-Dimensional Domain Deep Learning Network for SAR Ship Detection</span>, IEEE Trans. Geoscience and Remote Sensing, vol. 60, pp. 1-13, 2022.
+- D. Li, Q. Liang, <strong>H. Q. Liu</strong>, Q. Liu, H. Liu, and G. Liao, <span style="color: blue;">A Novel Multi-Dimensional Domain Deep Learning Network for SAR Ship Detection</span>, IEEE Trans. Geoscience and Remote Sensing, vol. 60, pp. 1-13, 2022.
 
-10. <strong>H. Q. Liu</strong>, W. Zhu, Y. Zhou, L. Shi, L. Gan, <span style="color: blue;">Nonintrusive wind blade fault detection using deep learning approach by exploring acoustic information</span>, The Journal of the Acoustical Society of America, 153(1):538-547, Jan. 2023.
+- <strong>H. Q. Liu</strong>, W. Zhu, Y. Zhou, L. Shi, L. Gan, <span style="color: blue;">Nonintrusive wind blade fault detection using deep learning approach by exploring acoustic information</span>, The Journal of the Acoustical Society of America, 153(1):538-547, Jan. 2023.
 
-11. Y.Liu, B. Jiang, <strong>H. Q. Liu</strong> Y. Zhao, F. Xiong, and Y. Zhou, <span style="color: blue;">A Novel Earprint: Stimulus-Frequency Otoacoustic Emission for Biometric Recognition</span>, IEEE Transactions on Information Forensics & Security, vol. 18, pp. 5484-5494, 2023.
+- Y.Liu, B. Jiang, <strong>H. Q. Liu</strong> Y. Zhao, F. Xiong, and Y. Zhou, <span style="color: blue;">A Novel Earprint: Stimulus-Frequency Otoacoustic Emission for Biometric Recognition</span>, IEEE Transactions on Information Forensics & Security, vol. 18, pp. 5484-5494, 2023.
     
 ### 会议
 1. Z. Luo and <strong>H. Q. Liu</strong>, <span style="color: blue;">Robust Hybrid Transceiver Designs for Millimeter Wave AF Cooperative Systems</span>, VTC-fall, Honolulu, USA, Sept. 2019.
