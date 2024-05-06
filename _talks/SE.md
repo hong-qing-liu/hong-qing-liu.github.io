@@ -5,7 +5,7 @@ type: "Talk"
 permalink: /talks/SE
 ---
 
-## 音质修复 
+## 音质修复 (Speech enhancement)
 - <font size=3> 音质修复包含很多方面，例如噪声去除，啸叫抑制，语音超分辨等，完成语音质量的提升。</font>  
 
 
