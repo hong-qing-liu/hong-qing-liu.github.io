@@ -5,7 +5,7 @@ type: "Talk"
 permalink: /talks/LLM
 ---
 
-##  大模型应用-LL,LMM
+##  大模型应用-LLM,LMM
 - <font size=3> 大模型的迅速发展，为其他下游任务(downstream tasks)的应用提供更多可能。</font>  
 
 
