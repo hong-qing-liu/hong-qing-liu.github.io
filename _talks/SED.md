@@ -26,3 +26,13 @@ permalink: /talks/SED
 
 - 我们提出的音视频融合检测与定位框架，在DCASE 2023 Task 3.A 音视频融合声事件检测与定位获得全球第二名。
 ![AEC before](/images/dcase2023.png){: .align-center width="700px"}
+
+
+### 视频演示
+
+   <iframe 
+    src="//player.bilibili.com/player.html?isOutside=true&aid=468455790&bvid=BV1L541117yt&cid=584375931&p=1"  
+    scrolling="no" 
+    width="600px" height="400px" 
+    border="0" frameborder="no" framespacing="0" allowfullscreen="true"> 
+   </iframe>
