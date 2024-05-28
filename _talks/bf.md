@@ -27,3 +27,9 @@ permalink: /talks/bf
 ​<audio id="audio" controls="" preload="none">
       <source id="wav" src="../files/bfafter.wav">{: .align-center}
  
+<iframe 
+src="//player.bilibili.com/player.html?isOutside=true&aid=383449809&bvid=BV1zZ4y117HS&cid=583919755&p=1"
+scrolling="no" 
+width="600px" height="400px" 
+border="0" frameborder="no" framespacing="0" allowfullscreen="true"> 
+</iframe>
