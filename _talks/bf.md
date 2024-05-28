@@ -28,6 +28,7 @@ permalink: /talks/bf
       <source id="wav" src="../files/bfafter.wav">{: .align-center}
 
 - 视频演示
+  
    <iframe 
     src="//player.bilibili.com/player.html?isOutside=true&aid=383449809&bvid=BV1zZ4y117HS&cid=583919755&p=1"
     scrolling="no" 
