@@ -30,9 +30,8 @@ permalink: /talks/SED
 
 ### 视频演示(扇叶故障检测)
    <iframe 
-    src="//player.bilibili.com/player.html?isOutside=true&aid=468455790&bvid=BV1L541117yt&cid=584375931&p=1"  
+    src="//player.bilibili.com/player.html?isOutside=true&aid=468455790&bvid=BV1L541117yt&cid=584375931&p=1&autoplay=0"  
     scrolling="no" 
-    autoplay=0
     width="600px" height="400px" 
     border="0" frameborder="no" framespacing="0" allowfullscreen="true"> 
    </iframe>
