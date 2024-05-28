@@ -32,10 +32,9 @@ permalink: /talks/SED
    <iframe 
     src="//player.bilibili.com/player.html?isOutside=true&aid=468455790&bvid=BV1L541117yt&cid=584375931&p=1"  
     scrolling="no" 
+    autoplay=0
     width="600px" height="400px" 
     border="0" frameborder="no" framespacing="0" allowfullscreen="true"> 
    </iframe>
 
-   <video width="480" height="400" controls>
-   <source src="//player.bilibili.com/player.html?isOutside=true&aid=468455790&bvid=BV1L541117yt&cid=584375931&p=1" type="video/mp4">
-   </video>
+  
