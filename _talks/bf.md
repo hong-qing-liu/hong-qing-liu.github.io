@@ -28,9 +28,9 @@ permalink: /talks/bf
       <source id="wav" src="../files/bfafter.wav">{: .align-center}
 
 - 视频演示
-<iframe 
-src="//player.bilibili.com/player.html?isOutside=true&aid=383449809&bvid=BV1zZ4y117HS&cid=583919755&p=1"
-scrolling="no" 
-width="600px" height="400px" 
-border="0" frameborder="no" framespacing="0" allowfullscreen="true"> 
-</iframe>
+   <iframe 
+    src="//player.bilibili.com/player.html?isOutside=true&aid=383449809&bvid=BV1zZ4y117HS&cid=583919755&p=1"
+    scrolling="no" 
+    width="600px" height="400px" 
+    border="0" frameborder="no" framespacing="0" allowfullscreen="true"> 
+   </iframe>
