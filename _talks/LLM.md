@@ -16,3 +16,9 @@ permalink: /talks/LLM
  
 
 ### <font size=4> 重庆话识别</font>
+<iframe 
+src="//player.bilibili.com/player.html?isOutside=true&aid=1705132836&bvid=BV1dT421i7ZU&cid=1562461104&p=1"
+scrolling="no" 
+width="800px" height="600px" 
+border="0" frameborder="no" framespacing="0" allowfullscreen="true"> 
+</iframe>
