@@ -29,7 +29,6 @@ permalink: /talks/SED
 
 
 ### 视频演示(扇叶故障检测)
-
    <iframe 
     src="//player.bilibili.com/player.html?isOutside=true&aid=468455790&bvid=BV1L541117yt&cid=584375931&p=1"  
     scrolling="no" 
