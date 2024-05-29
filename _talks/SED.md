@@ -29,7 +29,6 @@ permalink: /talks/SED
 
 
 ### 视频演示(扇叶故障检测)
-   
    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
     <iframe 
     src="//player.bilibili.com/player.html?isOutside=true&aid=468455790&bvid=BV1L541117yt&cid=584375931&p=1&autoplay=0" 
@@ -37,9 +36,6 @@ permalink: /talks/SED
     frameborder="0" 
     allowfullscreen="true">
     </iframe>
-   </div>
-
+  </div>
    
    
-
-  
