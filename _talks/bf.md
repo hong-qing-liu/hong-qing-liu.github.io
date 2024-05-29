@@ -28,10 +28,14 @@ permalink: /talks/bf
       <source id="wav" src="../files/bfafter.wav">{: .align-center}
 
 - 视频演示
-  
-   <iframe 
-    src="//player.bilibili.com/player.html?isOutside=true&aid=383449809&bvid=BV1zZ4y117HS&cid=583919755&p=1&poster=1&autoplay=0"
-    scrolling="no" 
-    width="600px" height="400px" 
-    border="0" frameborder="no" framespacing="0" allowfullscreen="true"> 
-   </iframe>
+
+   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+    <iframe 
+    src="//player.bilibili.com/player.html?isOutside=true&aid=383449809&bvid=BV1zZ4y117HS&cid=583919755&p=1&poster=1&autoplay=0" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+    frameborder="0" 
+    allowfullscreen="true">
+    </iframe>
+  </div>
+
+   
