@@ -11,10 +11,13 @@ permalink: /talks/ASR
 ### 方言识别
 - <font size=3> 采集了约40小时的重庆方言。</font>
 - <font size=3> 训练轻量化模型。 </font>
-<iframe 
-src="//player.bilibili.com/player.html?isOutside=true&aid=1705132836&bvid=BV1dT421i7ZU&cid=1562461104&autoplay=0"
-scrolling="no" 
-width="600px" height="400px" 
-border="0" frameborder="no" framespacing="0" allowfullscreen="true"> 
-</iframe>
 
+ <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+    <iframe 
+    src="//player.bilibili.com/player.html?isOutside=true&aid=1705132836&bvid=BV1dT421i7ZU&cid=1562461104&autoplay=0" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+    frameborder="0" 
+    allowfullscreen="true">
+    </iframe>
+  </div>
+ 
