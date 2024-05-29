@@ -18,7 +18,6 @@ permalink: /talks/LLM
 ### <font size=4> 重庆话识别</font>
 - 采集了约40小时的重庆方言
 - 训练轻量化模型
-
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
     <iframe 
     src="//player.bilibili.com/player.html?isOutside=true&aid=1705132836&bvid=BV1dT421i7ZU&cid=1562461104&autoplay=0" 
