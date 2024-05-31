@@ -11,9 +11,10 @@ permalink: /talks/LLM
 
 
 ###  <font size=4> 智慧医疗 </font>
- 
-  
- 
+ - 基于开源医疗图像数据集，微调多模态大模型idefics2
+ - 完成图像问答，实现基于图像的初步诊断
+   ![llm](/images/multimodal.png){: .align-center width="700px"}
+
 
 ### <font size=4> 重庆话识别</font>
 - 采集了约40小时的重庆方言
