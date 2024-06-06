@@ -10,6 +10,12 @@ permalink: /talks/LLM
 
 
 
+###  <font size=4> 大模型微调 </font>
+ - 基于开源数据集，微调多模态大模型Llama3 8B
+ - 完成不同私有数据集上的进一步优化，实现不同任务的更准确的回答
+   ![llm](/images/llmfinetue.png){: .align-center width="700px"}
+
+
 ###  <font size=4> 智慧医疗 </font>
  - 基于开源医疗图像数据集，微调多模态大模型idefics2
  - 完成图像问答，实现基于医疗图像的初步诊断
