@@ -11,8 +11,8 @@ permalink: /talks/LLM
 
 
 ###  <font size=4> 大模型微调 </font>
- - 基于开源数据集，微调多模态大模型Llama3 8B
- - 完成不同私有数据集上的进一步优化，实现不同任务的更准确的回答
+ - 基于开源数据集，微调语言大模型Llama3 8B
+ - 完成不同私有数据集上的进一步优化，实现不同任务的更精准的回答
    ![llm](/images/llmfinetue.png){: .align-center width="700px"}
 
 
