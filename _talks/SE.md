@@ -55,4 +55,4 @@ permalink: /talks/SE
 ​<audio id="audio" controls="" preload="none">
       <source id="wav" src="../files/superafter.wav">{: .align-center}
 
--- 超分辨 *[DEMOPAGE](https://sdnetdemo.github.io/?_blank)*.
+-- 超分辨 *[DEMOPAGE](https://sdnetdemo.github.io/){target="_blank"}*.
