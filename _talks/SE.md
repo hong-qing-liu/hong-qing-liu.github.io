@@ -24,6 +24,7 @@ permalink: /talks/SE
 ​<audio id="audio" controls="" preload="none">
       <source id="wav" src="../files/neseafter.wav">{: .align-center}
 
+-- 语音增强 *[DEMOPAGE](https://wanliangdaxia.github.io/){:target="_blank"}*.
 ###  啸叫抑制
 
 -- <font size=3> 在扩声场景下，由于扬声器播发出的声音又被麦克风采集到，如此反复形成一个闭合回路，从而刺耳的啸叫声。这种情况不仅容易损坏设备，也同时影响听觉。</font>  
