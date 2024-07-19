@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: " "
+title: "DEMO"
 permalink: /demo/
 author_profile: true
 ---
