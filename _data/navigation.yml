@@ -14,11 +14,12 @@ main:
   - title: "Research"
     url: /talks/    
 
-  #- title: "Teaching"
-  #  url: /teaching/    
-  
   - title: "Posts"
     url: /year-archive/
-  
-  # - title: "Guide"
+
+  - title: "DEMO"
+    url: /teaching/   
+
+    
+  # - title: "DEMO"
   #   url: /markdown/
