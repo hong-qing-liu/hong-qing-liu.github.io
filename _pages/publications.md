@@ -83,3 +83,5 @@ author_profile: true
 
 - 第三届成渝地区双城经济圈留学生创新创业大赛， 优秀指导教师，重庆市教育委员会，四川省教育厅， 2023.
 
+- Power cue enhanced network and audio-visual fusion for sound event localization and detection of DCASE2024 Challenge, DCASE Task 3.A\&B, 全球第四名, 2024.
+
