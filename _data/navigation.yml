@@ -21,5 +21,6 @@ main:
     url: /demo/   
 
     
-  # - title: "English"
-  #  url: /English/
+- title: "English"
+    url: https://xxx.github.io
+    external: true
