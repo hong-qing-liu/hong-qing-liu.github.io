@@ -1,23 +1,23 @@
 # main links links
 main:
-  - title: "CV"
+  - title: "简历"
     url: /cv/
     #url: /files/Resume.pdf
 
   #- title: "Portfolio"
   #   url: /portfolio/
   
-  - title: "Publications"
+  - title: "论文"
     url: /publications/
     # url: https://scholar.google.es/citations?user=xxxxxxxx=en
       
-  - title: "Research"
+  - title: "研究方向"
     url: /talks/    
 
-  - title: "Posts"
+  - title: "新闻"
     url: /year-archive/
 
-  - title: "Demo"
+  - title: "演示"
     url: /demo/   
 
     
