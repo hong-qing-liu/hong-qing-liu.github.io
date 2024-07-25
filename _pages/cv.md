@@ -18,7 +18,6 @@ redirect_from:
 - 研究员 (Oct. 2009 - Jan. 2013), Acoustic Research Laboratory, Tropical Marine Science Institute, 新加坡国立大学, 新加坡
 
 ## 个人简历 
-- 英文：[View CV](../files/resume.pdf)
 - 中文：[View CV](../files/resumech.pdf)
 
 
