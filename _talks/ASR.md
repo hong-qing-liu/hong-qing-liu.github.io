@@ -5,7 +5,7 @@ type: "Talk"
 permalink: /talks/ASR
 ---
 
---
+---
 - <font size=3> 利用transformer结构的encoder-decoder方案，可以实现轻松的转录。</font>  
 
 ---
