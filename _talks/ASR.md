@@ -1,12 +1,11 @@
 ---
-title: "语音识别 (Automatic speech recognition)"
+title:  "<span style=\"color: blue; text-decoration: none;\"> 语音识别 </span>"   
 collection: talks
 type: "Talk"
 permalink: /talks/ASR
 ---
 
 --
-## 语音识别 
 - <font size=3> 利用transformer结构的encoder-decoder方案，可以实现轻松的转录。</font>  
 
 ---
