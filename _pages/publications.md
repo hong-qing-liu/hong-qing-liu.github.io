@@ -31,7 +31,6 @@ author_profile: true
 
 - Y.Liu, B. Jiang, <strong>H. Q. Liu</strong> Y. Zhao, F. Xiong, and Y. Zhou, <span style="color: blue;">A Novel Earprint: Stimulus-Frequency Otoacoustic Emission for Biometric Recognition</span>, IEEE Transactions on Information Forensics & Security, vol. 18, pp. 5484-5494, 2023.
 
----
 ### 会议 (Conference)
 - Z. Luo and <strong>H. Q. Liu</strong>, <span style="color: blue;">Robust Hybrid Transceiver Designs for Millimeter Wave AF Cooperative Systems</span>, VTC-fall, Honolulu, USA, Sept. 2019.
 
@@ -63,7 +62,7 @@ author_profile: true
 
 - C. Shi, K. Huang, G. Lu, X. Gao, and <strong>H. Q. Liu</strong>, <span style="color: blue;">On the Analysis of GAN-based Image-to-Image Translation with Gaussian Noise Injection</span>, International Conference on Learning Representations (ICLR), Vienna, Austria, May 2024.
 
----
+
 ## 获奖 (Awards)
 - National Silver Medal, The intelligent wheelchair based on GIS and MIC array speech recognition, The 5th China College Students 'Internet Plus' Innovation and Entrepreneurship Competition, 2019.
 
