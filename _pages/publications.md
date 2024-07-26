@@ -5,7 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
+---
 ## 代表性论文
+---
 ### 期刊 (Journal)
 - T.-C. Lin, L. Hou, <strong>H. Q. Liu</strong>, Y. Li, and Trieu-Kien Truong, <span style="color: blue;">Reconstruction of single image from multiple blurry measured images</span>, IEEE Trans. Image Processing, vol. 27, iss. 6, pp. 2762-2776, Jun. 2018.
    
@@ -28,7 +30,8 @@ author_profile: true
 - <strong>H. Q. Liu</strong>, W. Zhu, Y. Zhou, L. Shi, L. Gan, <span style="color: blue;">Nonintrusive wind blade fault detection using deep learning approach by exploring acoustic information</span>, The Journal of the Acoustical Society of America, 153(1):538-547, Jan. 2023.
 
 - Y.Liu, B. Jiang, <strong>H. Q. Liu</strong> Y. Zhao, F. Xiong, and Y. Zhou, <span style="color: blue;">A Novel Earprint: Stimulus-Frequency Otoacoustic Emission for Biometric Recognition</span>, IEEE Transactions on Information Forensics & Security, vol. 18, pp. 5484-5494, 2023.
-    
+
+---
 ### 会议 (Conference)
 - Z. Luo and <strong>H. Q. Liu</strong>, <span style="color: blue;">Robust Hybrid Transceiver Designs for Millimeter Wave AF Cooperative Systems</span>, VTC-fall, Honolulu, USA, Sept. 2019.
 
@@ -60,6 +63,7 @@ author_profile: true
 
 - C. Shi, K. Huang, G. Lu, X. Gao, and <strong>H. Q. Liu</strong>, <span style="color: blue;">On the Analysis of GAN-based Image-to-Image Translation with Gaussian Noise Injection</span>, International Conference on Learning Representations (ICLR), Vienna, Austria, May 2024.
 
+---
 ## 获奖 (Awards)
 - National Silver Medal, The intelligent wheelchair based on GIS and MIC array speech recognition, The 5th China College Students 'Internet Plus' Innovation and Entrepreneurship Competition, 2019.
 
