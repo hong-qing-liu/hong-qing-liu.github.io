@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "👋🏼 Hello, Welcome!"
+title: "<div style=\"background-image: url('/images/background.png'); background-size: cover; padding: 20px; border-radius: 10px; color: white;\"> 👋 Hello, Welcome! </div>"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
