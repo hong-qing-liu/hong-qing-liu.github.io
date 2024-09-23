@@ -31,7 +31,7 @@ author_profile: true
 
 - Y.Liu, B. Jiang, <strong>H. Q. Liu</strong>, Y. Zhao, F. Xiong, and Y. Zhou, <span style="color: blue;">A Novel Earprint: Stimulus-Frequency Otoacoustic Emission for Biometric Recognition</span>, IEEE Transactions on Information Forensics & Security, vol. 18, pp. 5484-5494, 2023.
 
-- L. Wan, <strong>H. Q. Liu</strong>, L. Shi, Y. Zhou, and L. Gan, <span style="color: blue;">Cross Domain Optimization for Speech Enhancement: Parallel or Cascade?</span>, IEEE Transactions on Audio, Speech and Language Processing, accepted. 
+- L. Wan, <strong>H. Q. Liu</strong>, L. Shi, Y. Zhou, and L. Gan, <span style="color: blue;">Cross Domain Optimization for Speech Enhancement: Parallel or Cascade?</span>, IEEE/ACM Transactions on Audio, Speech and Language Processing, accepted. 
 
 ### 会议 (Conference)
 - Z. Luo and <strong>H. Q. Liu</strong>, <span style="color: blue;">Robust Hybrid Transceiver Designs for Millimeter Wave AF Cooperative Systems</span>, VTC-fall, Honolulu, USA, Sept. 2019.
