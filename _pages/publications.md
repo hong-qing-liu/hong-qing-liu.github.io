@@ -33,6 +33,8 @@ author_profile: true
 
 - L. Wan, <strong>H. Q. Liu</strong>, L. Shi, Y. Zhou, and L. Gan, <span style="color: blue;">Cross Domain Optimization for Speech Enhancement: Parallel or Cascade?</span>, IEEE/ACM Transactions on Audio, Speech and Language Processing, vol. 32, pp. 4328-4341, 2024.
 
+- J. Yang, <strong>H. Q. Liu</strong>, L. Gan, X. Jing, <span style="color: blue;">Spectral network based on lattice convolution and adversarial training for noise-robust speech super-resolution</span>, The Journal of the Acoustical Society of America, accepted.
+
 ### 会议 (Conference)
 - Z. Luo and <strong>H. Q. Liu</strong>, <span style="color: blue;">Robust Hybrid Transceiver Designs for Millimeter Wave AF Cooperative Systems</span>, VTC-fall, Honolulu, USA, Sept. 2019.
 
