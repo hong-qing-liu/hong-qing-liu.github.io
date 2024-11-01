@@ -15,8 +15,8 @@ redirect_from:
 
 ---
 ## 工作经历  
-- 高级学术导师 (Sept. 2018-), Trans-national Education (TNE) Program, 重庆邮电大学-Brunel University London 
-- 教授 (2013.05 - ), 通信与信息工程学院，重庆邮电大学
+- 高级学术导师 (Sept. 2018-), Trans-national Education (TNE) Program, 重庆邮电大学-Brunel University London，重庆，中国 
+- 教授 (2013.05 - ), 通信与信息工程学院，重庆邮电大学，重庆，中国
 - 研究员 (Oct. 2009 - Jan. 2013), Acoustic Research Laboratory, Tropical Marine Science Institute, 新加坡国立大学, 新加坡
 
 ---
