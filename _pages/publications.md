@@ -92,5 +92,5 @@ author_profile: true
 
 - Power cue enhanced network and audio-visual fusion for sound event localization and detection of DCASE2024 Challenge, DCASE Task 3.A&B, 全球第四名, 2024.
 
-- 乘用车座舱高声景设计与智能控制关键技术，中国汽车工程学会科学技术奖，科学技术进步奖，二等奖，2024.
+- 乘用车座舱声景设计与智能控制关键技术，中国汽车工程学会科学技术奖，科学技术进步奖，二等奖，2024.
 
