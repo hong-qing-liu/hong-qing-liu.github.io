@@ -33,7 +33,7 @@ author_profile: true
 
 - L. Wan, <strong>H. Q. Liu</strong>, L. Shi, Y. Zhou, and L. Gan, <span style="color: blue;">Cross Domain Optimization for Speech Enhancement: Parallel or Cascade?</span>, IEEE/ACM Transactions on Audio, Speech and Language Processing, vol. 32, pp. 4328-4341, 2024.
 
-- J. Yang, <strong>H. Q. Liu</strong>, L. Gan, X. Jing, <span style="color: blue;">Spectral network based on lattice convolution and adversarial training for noise-robust speech super-resolution</span>, The Journal of the Acoustical Society of America, accepted.
+- J. Yang, <strong>H. Q. Liu</strong>, L. Gan, X. Jing, <span style="color: blue;">Spectral network based on lattice convolution and adversarial training for noise-robust speech super-resolution</span>, The Journal of the Acoustical Society of America, 156, 3143–3157, 2024.
 
 ### 会议 (Conference)
 - Z. Luo and <strong>H. Q. Liu</strong>, <span style="color: blue;">Robust Hybrid Transceiver Designs for Millimeter Wave AF Cooperative Systems</span>, VTC-fall, Honolulu, USA, Sept. 2019.
@@ -60,7 +60,7 @@ author_profile: true
 
 - C. Shuai, L. Gan, <strong>H. Q. Liu</strong>, <span style="color: blue;">mdctGAN: Taming transformer-based GAN for speech super-resolution with Modified DCT spectra</span>, INTERSPEECH, Dublin, Ireland, Aug., 2023.
 
-- W. Yan, L. Gan, S. Hu, and <strong>H. Q. Liu</strong>, <span style="color: blue;">TOWARDS OPTIMIZED MULTI-CHANNEL MODULO-ADCS: MODULI SELECTION STRATEGIES AND BIT DEPTH ANALYSIS</span>, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Seoul Korea, Apr., 2024.
+- W. Yan, L. Gan, S. Hu, and <strong>H. Q. Liu</strong>, <span style="color: blue;">Towards optimized multi-channel modulo-ADCS: moduli selection strategies and bit depth analysis</span>, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Seoul Korea, Apr., 2024.
 
 - K. Huang, C. Shi, L. Gan, and <strong>H. Q. Liu</strong>, <span style="color: blue;">Understanding Gaussian Noise Mismatch: A Hellinger Distance Approach</span>, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Seoul Korea, Apr., 2024.
 
