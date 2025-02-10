@@ -63,13 +63,12 @@ permalink: /talks/SE
 
 ---
 ###  音质提升
--- <font size=3> Interspeech2025 URGENT Challenge</font>  
   
 -- <font size=3> Interspeech2025 URGENT Challenge (Universal, Robust, and Generalizable speech EnhancemeNT systems)挑战旨在更加关注构建通用、稳健且具广泛适用性的语音增强模型。为了提高语音增强系统的通用性，考虑了以下失真：加性噪声、混响、削波、带宽扩展、编解码器伪影、数据包丢失和风噪声。 </font>  
-![goal](/images/interspeechgoal.png){: .align-center width="700px"}
+![goal](/images/interspeechgoal.PNG){: .align-center width="700px"}
 ​ 
  
 
 -- <font size=3> 获得全球第四名！</font>  
-![results](/images/interspeechre.png){: .align-center width="700px"}
+![results](/images/interspeechre.PNG){: .align-center width="700px"}
 ​ 
