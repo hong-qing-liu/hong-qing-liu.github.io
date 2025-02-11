@@ -6,7 +6,7 @@ permalink: /talks/SED
 ---
 
 ---
-- <font size=3> 声事件检测(Acoustic(sound) event detection, A(S)ED)是对声音中所包含的声音种类进行判别。</font>  
+- <font size=3> 声事件检测(Acoustic(sound) event detection, A(S)ED)是对声音中所包含的声音种类进行判别，也称为声事件分类，场景识别。</font>  
 
 
 ---
