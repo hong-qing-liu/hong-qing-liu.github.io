@@ -33,7 +33,7 @@ author_profile: true
 
 - L. Wan, <strong>H. Q. Liu</strong>, L. Shi, Y. Zhou, and L. Gan, <span style="color: blue;">Cross Domain Optimization for Speech Enhancement: Parallel or Cascade?</span>, IEEE/ACM Transactions on Audio, Speech and Language Processing, vol. 32, pp. 4328-4341, 2024.
 
-- J. Yang, <strong>H. Q. Liu</strong>, L. Gan, X. Jing, <span style="color: blue;">Spectral network based on lattice convolution and adversarial training for noise-robust speech super-resolution</span>, The Journal of the Acoustical Society of America, 156, 3143–3157, 2024.
+- J. Yang, <strong>H. Q. Liu</strong>, L. Gan, and X. Jing, <span style="color: blue;">Spectral network based on lattice convolution and adversarial training for noise-robust speech super-resolution</span>, The Journal of the Acoustical Society of America, 156, 3143–3157, 2024.
 
 - Z. Luo, F. Xie, R. Zhang, and <strong>H. Q. Liu</strong>, <span style="color: blue;">Beamforming Designs for Hybrid Relaying in mmWave Systems Based on Deep Unfolding</span>, IEEE Signal Processing Letters, accepted.
 
