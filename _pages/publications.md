@@ -68,6 +68,9 @@ author_profile: true
 
 - C. Shi, K. Huang, G. Lu, X. Gao, and <strong>H. Q. Liu</strong>, <span style="color: blue;">On the Analysis of GAN-based Image-to-Image Translation with Gaussian Noise Injection</span>, International Conference on Learning Representations (ICLR), Vienna, Austria, May 2024.
 
+- Y. Zhu, L. Zhou, <strong>H. Q. Liu</strong>, L. Shi, L. Gan, <span style="color: blue;">A Robust Hybrid ACC-PM Approach for Personal Sound Zones</span>, INTERSPEECH, Rotterdam, The Netherlands, Aug., 2025.
+
+
 
 ## 获奖 (Awards)
 - National Silver Medal, The intelligent wheelchair based on GIS and MIC array speech recognition, The 5th China College Students 'Internet Plus' Innovation and Entrepreneurship Competition, 2019.
