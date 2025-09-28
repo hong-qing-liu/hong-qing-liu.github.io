@@ -99,3 +99,7 @@ author_profile: true
 
 - 乘用车座舱声景设计与智能控制关键技术，中国汽车工程学会科学技术奖，科学技术进步奖，二等奖，2024.
 
+- Dynacp: Dynamic Parallel Selective Convolution in Cp-Mobile Under Multi-Teacher Distillation for Acoustic Scene Classification, DCASE (声事件检测全球比赛) Task 1, Third place (Global), 2025.
+
+- A Semi-Supervised Acoustic Scene Classification Network Based on Multi-Modal Information Fusion, City and Time-Aware Semi-supervised Acoustic Scene Classification, APSIPA ASC 2025 Grand Challenge (声场景分类), Third place (Global), 2025.
+
