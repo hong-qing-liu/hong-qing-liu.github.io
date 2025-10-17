@@ -33,6 +33,11 @@ permalink: /talks/SED
 ![AEC before](/images/2024task3b.png){: .align-center width="700px"}
 
 ---
+### 低复杂度声场景识别
+- <font size=3> 我们提出的低复杂度声场景识别训练框架获得了DCASE2025 Task1的第三名！ </font>  
+![AEC before](/images/2025task1.png){: .align-center width="700px"}  
+
+---
 ### 视频演示(扇叶故障检测)
    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
     <iframe 
