@@ -38,6 +38,12 @@ permalink: /talks/SED
 ![AEC before](/images/2025task1.png){: .align-center width="700px"}  
 
 ---
+### 城市场景感知
+- <font size=3> 我们提出的城市场景感知模型获得了APSIPA ASC 2025 Grand Challenge的第三名！ </font>  
+![AEC before](/images/APSIPA2025city.png){: .align-center width="700px"}  
+
+
+---
 ### 视频演示(扇叶故障检测)
    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
     <iframe 
