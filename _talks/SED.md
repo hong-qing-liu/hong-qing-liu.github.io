@@ -1,5 +1,5 @@
 ---
-title: "<span style=\"color: blue; text-decoration: none;\"> 声事件检测 </span>"  
+title: "<span style=\"color: blue; text-decoration: none;\"> 声事件检测(声音识别) </span>"  
 collection: talks
 type: "Talk"
 permalink: /talks/SED
