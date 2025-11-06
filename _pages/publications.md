@@ -37,6 +37,8 @@ author_profile: true
 
 - Z. Luo, F. Xie, R. Zhang, and <strong>H. Q. Liu</strong>, <span style="color: blue;">Beamforming Designs for Hybrid Relaying in mmWave Systems Based on Deep Unfolding</span>, IEEE Signal Processing Letters, accepted.
 
+- L. Zhou, <strong>H. Q. Liu</strong>, L. Gan , Y. Zhou , M. Niedzwiecki, T.-K. Truong, <span style="color: blue;">A Novel Sparse Adaptive Filter for SuppressingImpulsive Disturbance in Audio Signals</span>,  Signal Processing, Accepted.
+
 ### 会议 (Conference)
 - Z. Luo and <strong>H. Q. Liu</strong>, <span style="color: blue;">Robust Hybrid Transceiver Designs for Millimeter Wave AF Cooperative Systems</span>, VTC-fall, Honolulu, USA, Sept. 2019.
 
