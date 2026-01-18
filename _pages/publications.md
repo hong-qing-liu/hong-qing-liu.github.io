@@ -72,6 +72,10 @@ author_profile: true
 
 - Y. Zhu, L. Zhou, <strong>H. Q. Liu</strong>, L. Shi, L. Gan, <span style="color: blue;">A Robust Hybrid ACC-PM Approach for Personal Sound Zones</span>, INTERSPEECH, Rotterdam, The Netherlands, Aug., 2025.
 
+- L. Zhou, C. Gong, C. Huang, <strong>H. Q. Liu</strong>, L. Gan, L. Shi, <span style="color: blue;">A Data-Driven Framework for Personal Sound Zone Control Addressing Loudspeaker Nonlinearities</span>, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Barcelona, Spain, May 2026.
+
+- C. Huang, C. Gong, L. Zhou, G. Wu, <strong>H. Q. Liu</strong>, L. Gan, L. Shi, <span style="color: blue;">A Speech-Driven Paradigm for physics-informaned Modeling of Coupled Micro-Speakers</span>, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Barcelona, Spain, May 2026.
+
 
 
 ## 获奖 (Awards)
