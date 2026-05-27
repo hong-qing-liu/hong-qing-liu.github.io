@@ -35,9 +35,11 @@ author_profile: true
 
 - J. Yang, <strong>H. Q. Liu</strong>, L. Gan, and X. Jing, <span style="color: blue;">Spectral network based on lattice convolution and adversarial training for noise-robust speech super-resolution</span>, The Journal of the Acoustical Society of America, 156, 3143–3157, 2024.
 
-- Z. Luo, F. Xie, R. Zhang, and <strong>H. Q. Liu</strong>, <span style="color: blue;">Beamforming Designs for Hybrid Relaying in mmWave Systems Based on Deep Unfolding</span>, IEEE Signal Processing Letters, accepted.
+- Z. Luo, F. Xie, R. Zhang, and <strong>H. Q. Liu</strong>, <span style="color: blue;">Beamforming Designs for Hybrid Relaying in mmWave Systems Based on Deep Unfolding</span>, IEEE Signal Processing Letters, vol. 32, pp. 2050-2054, 2025.
 
-- L. Zhou, <strong>H. Q. Liu</strong>, L. Gan , Y. Zhou , M. Niedzwiecki, T.-K. Truong, <span style="color: blue;">A Novel Sparse Adaptive Filter for Suppressing Impulsive Disturbance in Audio Signals</span>,  Signal Processing, Accepted.
+- L. Zhou, <strong>H. Q. Liu</strong>, L. Gan , Y. Zhou , M. Niedzwiecki, T.-K. Truong, <span style="color: blue;">A Novel Sparse Adaptive Filter for Suppressing Impulsive Disturbance in Audio Signals</span>,  Signal Processing, vol. 241, Apr. 2026.
+
+-  W. Yan Z. Li, L. Gan, <strong>H. Q. Liu</strong>, G. Li,  <span style="color: blue;">Difference-Based Recovery for Modulo Sampling: Tightened Bounds and Robustness Guarantees</span>, IEEE Transactions on Signal Processing, accepted.
 
 ### 会议 (Conference)
 - Z. Luo and <strong>H. Q. Liu</strong>, <span style="color: blue;">Robust Hybrid Transceiver Designs for Millimeter Wave AF Cooperative Systems</span>, VTC-fall, Honolulu, USA, Sept. 2019.
