@@ -14,7 +14,7 @@ permalink: /talks/whisper
 -- <font size=3> 利用语义特征，设计了一个基于生成式对抗恢复网络，区别于常用语音增强方案。</font>  
   
 -- <font size=3> 轻声</font>  
-![AEC before](/images/whisperbefore.JPG){: .align-center width="700px"}
+![Whisper before](/images/whisperbefore.JPG){: .align-center width="700px"}
 ​<audio id="audio" controls="" preload="none">
       <source id="wav" src="../files/whisperbefore.wav">
 
