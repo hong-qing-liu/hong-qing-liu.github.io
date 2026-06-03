@@ -20,12 +20,12 @@ permalink: /talks/whisper
 
 
 -- <font size=3> 恢复之后</font>  
-![AEC before](/images/whisperafter.JPG){: .align-center width="700px"}
+![Whisper after](/images/whisperafter.JPG){: .align-center width="700px"}
  ​<audio id="audio" controls="" preload="none">
       <source id="wav" src="../files/whisperafter.wav">
 
 -- <font size=3> 正常语音</font>  
-![AEC before](/images/normal.JPG){: .align-center width="700px"}
+![normal](/images/normal.JPG){: .align-center width="700px"}
  ​<audio id="audio" controls="" preload="none">
       <source id="wav" src="../files/normal.wav">
 
