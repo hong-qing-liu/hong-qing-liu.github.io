@@ -78,11 +78,11 @@ author_profile: true
 
 - C. Huang, C. Gong, L. Zhou, G. Wu, <strong>H. Q. Liu</strong>, L. Gan, L. Shi, <span style="color: blue;">A Speech-Driven Paradigm for physics-informaned Modeling of Coupled Micro-Speakers</span>, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Barcelona, Spain, May 2026.
 
--   C. Huang, L. Zhou, <strong>H. Q. Liu</strong>, L. Gan, L. Shi, <span style="color: blue;">GISNO: Neural Operator-based HRTF Personalization from 3D Meshes via Differentiable Helmholtz Rendering</span>, INTERSPEECH, Sydney, Australia, Sept., 2026.
+- C. Huang, L. Zhou, <strong>H. Q. Liu</strong>, L. Gan, L. Shi, <span style="color: blue;">GISNO: Neural Operator-based HRTF Personalization from 3D Meshes via Differentiable Helmholtz Rendering</span>, INTERSPEECH, Sydney, Australia, Sept., 2026.
 
--   C. Gong, C. Huang, L. Zhou, <strong>H. Q. Liu</strong>, L. Shi, L. Gan, <span style="color: blue;">NCPSZ: A Nonlinear Control Network for Miniature Loudspeakers in Personal Sound Zone Applications</span>, INTERSPEECH, Sydney, Australia, Sept., 2026.
+- C. Gong, C. Huang, L. Zhou, <strong>H. Q. Liu</strong>, L. Shi, L. Gan, <span style="color: blue;">NCPSZ: A Nonlinear Control Network for Miniature Loudspeakers in Personal Sound Zone Applications</span>, INTERSPEECH, Sydney, Australia, Sept., 2026.
 
--   H. Xu, <strong>H. Q. Liu</strong>, L. Shi, L. Gan, <span style="color: blue;">A Sparsity-Aware Robust Nonlinear Active Noise Control for Impulsive Noise Environments</span>, INTERSPEECH, Sydney, Australia, Sept., 2026.
+- H. Xu, <strong>H. Q. Liu</strong>, L. Shi, L. Gan, <span style="color: blue;">A Sparsity-Aware Robust Nonlinear Active Noise Control for Impulsive Noise Environments</span>, INTERSPEECH, Sydney, Australia, Sept., 2026.
 
 
 
