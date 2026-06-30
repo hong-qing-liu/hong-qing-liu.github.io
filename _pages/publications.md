@@ -41,6 +41,8 @@ author_profile: true
 
 -  W. Yan Z. Li, L. Gan, <strong>H. Q. Liu</strong>, G. Li,  <span style="color: blue;">Difference-Based Recovery for Modulo Sampling: Tightened Bounds and Robustness Guarantees</span>, IEEE Transactions on Signal Processing, accepted.
 
+- C. Wei, X. Liao  L. Yang  Y. Wan, <strong>H. Q. Liu</strong>, <span style="color: blue;">Subband Active Noise Control with Pre-Trained Filters: A Low-Complexity Adaptive Combination Weight Algorithm</span>, Digital Signal Processing, accepted.
+
 ### 会议 (Conference)
 - Z. Luo and <strong>H. Q. Liu</strong>, <span style="color: blue;">Robust Hybrid Transceiver Designs for Millimeter Wave AF Cooperative Systems</span>, VTC-fall, Honolulu, USA, Sept. 2019.
 
