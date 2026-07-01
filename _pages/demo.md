@@ -22,6 +22,7 @@ author_profile: true
 
 [查看超分辨 DEMO PAGE](https://sdnetdemo.github.io/){:target="_blank"}
 
+---
 
 ### 双耳空间音频渲染
 在这个部分，我们展示双耳空间音频渲染的结果，可以通过以下链接查看：
