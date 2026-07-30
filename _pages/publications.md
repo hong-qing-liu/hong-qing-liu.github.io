@@ -43,6 +43,8 @@ author_profile: true
 
 - C. Wei, X. Liao,  L. Yang,  Y. Wan, <strong>H. Q. Liu</strong>, <span style="color: blue;">Subband Active Noise Control with Pre-Trained Filters: A Low-Complexity Adaptive Combination Weight Algorithm</span>, Digital Signal Processing, accepted.
 
+- J. Yang, H. Nishizaki, C. S.Leow, <strong>H. Q. Liu</strong>, L. Gan, <span style="color: blue;">Lightweight Streaming Speech Enhancement for AIoT-Enabled Wearable Hearing Aids Using Parallel Spiking Mamba</span>, Internet of Things, accepted.
+
 ### 会议 (Conference)
 - Z. Luo and <strong>H. Q. Liu</strong>, <span style="color: blue;">Robust Hybrid Transceiver Designs for Millimeter Wave AF Cooperative Systems</span>, VTC-fall, Honolulu, USA, Sept. 2019.
 
