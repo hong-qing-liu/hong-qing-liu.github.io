@@ -45,6 +45,11 @@ author_profile: true
 
 - J. Yang, H. Nishizaki, C. S.Leow, <strong>H. Q. Liu</strong>, L. Gan, <span style="color: blue;">Lightweight Streaming Speech Enhancement for AIoT-Enabled Wearable Hearing Aids Using Parallel Spiking Mamba</span>, Internet of Things, accepted.
 
+- W. Yan, L. Gan, <strong>H. Q. Liu</strong>, S. Hu,  <span style="color: blue;">Moduli Selection in Robust Chinese Remainder Theorem: Closed-Form Solutions and Layered Design</span>, IEEE Transactions on Information Theory, accepted.
+
+- J. Yang, H. Nishizaki, C. S.Leow, <strong>H. Q. Liu</strong>, L. Gan,  <span style="color: blue;">A Dual-Stream Spectral Network for Versatile Full-Band Speech Enhancement</span>, The Journal of the Acoustical Society of America, accepted.
+
+
 ### 会议 (Conference)
 - Z. Luo and <strong>H. Q. Liu</strong>, <span style="color: blue;">Robust Hybrid Transceiver Designs for Millimeter Wave AF Cooperative Systems</span>, VTC-fall, Honolulu, USA, Sept. 2019.
 
